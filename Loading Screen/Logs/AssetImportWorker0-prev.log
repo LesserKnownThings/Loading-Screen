@@ -1,0 +1,247 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.631; Version 2009; 64bit' Language: 'en' Physical Memory: 16346 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ursum/Documents/GitHub/Loading Screen/Loading Screen
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64277
+Successfully changed project path to: C:/Users/ursum/Documents/GitHub/Loading Screen/Loading Screen
+C:/Users/ursum/Documents/GitHub/Loading Screen/Loading Screen
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 51.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ursum/Documents/GitHub/Loading Screen/Loading Screen/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) RX 480 Graphics (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.14533.1000
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56384
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004371 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 54.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.357 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001239 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Don't forget to download the bonus content from the Asset Store!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Startup:.cctor () (at Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs:12)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs Line: 12)
+
+http://www.infinitypbr.com - Please Review & Rate!
+Delete Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs to stop this message.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Startup:.cctor () (at Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs:13)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs Line: 13)
+
+Visit the Infinity PBR asset pages on the Asset Store to find links to bonus downloads for free. Find support, pre-release content and more at https://InfinityPBR.com
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Startup:.cctor () (at Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs:14)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs Line: 14)
+
+Please review & rate your purchase.  Your positive review let's
+others know they can trust our work.  We can't thank you enough!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Startup:.cctor () (at Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs:15)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs Line: 15)
+
+Cancelling DisplayDialogComplex: www.InfinityPBR.com: Please Register, Review & Rate! Your Asset Store purchase contains more than what's included! In an effort to keep the download size down, all customization files and other bonus content (Concept Art etc), can be downloaded from my the bonus packs on the Asset Store. Visit the asset page to find the links to the free bonus packs.
+
+Please review & rate your purchase.  Your review & rating helps others know how high quality our work is!
+This should not be called in batch mode.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Startup:.cctor () (at Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs:18)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Assets/InfinityPBR/Editor/SFB_LoadWelcome.cs line 18]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.348 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1166 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.1 MB.
+System memory in use after: 66.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 3.081000 ms (FindLiveObjects: 0.272300 ms CreateObjectMapping: 0.071400 ms MarkObjects: 2.276500 ms  DeleteObjects: 0.459200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Patterns/Custom Patter 2.asset
+  artifactKey: Guid(6a68e08c420cdb248a78a5b13d21df4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patterns/Custom Patter 2.asset using Guid(6a68e08c420cdb248a78a5b13d21df4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ea5df12c4e75232d4eb6a2c8266afa') in 0.043527 seconds
+  Import took 0.046719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.120396 seconds.
+  path: Assets/Patterns/Custom Patter 2.asset
+  artifactKey: Guid(6a68e08c420cdb248a78a5b13d21df4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patterns/Custom Patter 2.asset using Guid(6a68e08c420cdb248a78a5b13d21df4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd399f53c0cc6efdbe16c5d16e70a4cfe') in 0.013435 seconds
+  Import took 0.016681 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001295 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.248 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1139 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.2 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 2.423100 ms (FindLiveObjects: 0.256100 ms CreateObjectMapping: 0.062800 ms MarkObjects: 1.741500 ms  DeleteObjects: 0.361400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.376 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1585.
+Total: 3.181900 ms (FindLiveObjects: 0.553600 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.396500 ms  DeleteObjects: 0.154700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.232 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.6 MB.
+System memory in use after: 63.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 2.176200 ms (FindLiveObjects: 0.260400 ms CreateObjectMapping: 0.063700 ms MarkObjects: 1.763500 ms  DeleteObjects: 0.087100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004170 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.254 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.6 MB.
+System memory in use after: 63.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1589.
+Total: 2.023100 ms (FindLiveObjects: 0.202300 ms CreateObjectMapping: 0.059800 ms MarkObjects: 1.670600 ms  DeleteObjects: 0.089300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
